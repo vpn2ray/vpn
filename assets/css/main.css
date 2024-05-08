@@ -242,7 +242,7 @@ font-family:vazirmatn;
 
 	code {
 		border: solid 2px;
-		font-family: "Courier New", monospace;
+		font-family: vazirmatn;
 		font-size: 0.9rem;
 		margin: 0 0.25rem;
 		padding: 0.25rem 0.65rem;
@@ -250,7 +250,7 @@ font-family:vazirmatn;
 
 	pre {
 		-webkit-overflow-scrolling: touch;
-		font-family: "Courier New", monospace;
+		font-family: vazirmatn;
 		font-size: 0.9rem;
 		margin: 0 0 2rem 0;
 	}
@@ -2075,7 +2075,7 @@ font-family:vazirmatn;
 		border-radius: 0;
 		cursor: pointer;
 		display: inline-block;
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		font-family: vazirmatn;
 		font-size: 0.8rem;
 		font-weight: 900;
 		letter-spacing: 0.075em;
@@ -2310,7 +2310,7 @@ font-family:vazirmatn;
 
 	label {
 		display: block;
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		font-family: vazirmatn;
 		font-weight: 900;
 		line-height: 1.5;
 		letter-spacing: 0.075em;
@@ -2404,7 +2404,7 @@ font-family:vazirmatn;
 			display: inline-block;
 			font-size: 1rem;
 			letter-spacing: 0;
-			font-family: "Merriweather", Georgia, serif;
+			font-family: vazirmatn;
 			text-transform: none;
 			font-weight: 300;
 			padding-left: 2.8rem;
@@ -3020,7 +3020,7 @@ font-family:vazirmatn;
 		}
 
 		table th {
-			font-family: "Source Sans Pro", Helvetica, sans-serif;
+			font-family:vazirmatn;
 			font-size: 0.8rem;
 			font-weight: 900;
 			letter-spacing: 0.075em;
@@ -3120,7 +3120,7 @@ font-family:vazirmatn;
 			transition: background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
 			border: solid 2px;
 			display: inline-block;
-			font-family: "Source Sans Pro", Helvetica, sans-serif;
+			font-family: vazirmatn;
 			font-size: 0.8rem;
 			font-weight: 900;
 			height: 3rem;
