@@ -2076,7 +2076,7 @@ font-family:vazirmatn;
 		font-family: vazirmatn;
 		font-size: 0.8rem;
 		font-weight: 900;
-		letter-spacing: 0.075em;
+		
 		height: 3rem;
 		line-height: 3rem;
 		padding: 0 2rem;
@@ -2311,7 +2311,7 @@ font-family:vazirmatn;
 		font-family: vazirmatn;
 		font-weight: 900;
 		line-height: 1.5;
-		letter-spacing: 0.075em;
+		
 		font-size: 0.8rem;
 		text-transform: uppercase;
 		margin: 0 0 0.75rem 0;
@@ -3021,7 +3021,7 @@ font-family:vazirmatn;
 			font-family:vazirmatn;
 			font-size: 0.8rem;
 			font-weight: 900;
-			letter-spacing: 0.075em;
+			
 			line-height: 1.5;
 			padding: 0 0.75rem 0.75rem 0.75rem;
 			text-align: left;
@@ -3122,7 +3122,7 @@ font-family:vazirmatn;
 			font-size: 0.8rem;
 			font-weight: 900;
 			height: 3rem;
-			letter-spacing: 0.075em;
+			
 			line-height: calc(3rem - 4px);
 			margin-left: -2px;
 			min-width: 3rem;
@@ -3684,9 +3684,9 @@ font-family:vazirmatn;
 			-webkit-flex-shrink: 1;
 			-ms-flex-shrink: 1;
 			flex-shrink: 1;
-			font-family: "Source Sans Pro", Helvetica, sans-serif;
+			font-family: vazirmatn;
 			font-weight: 900;
-			letter-spacing: 0.075em;
+			
 			list-style: none;
 			margin-bottom: 0;
 			padding-left: 0;
@@ -4380,10 +4380,10 @@ font-family:vazirmatn;
 		position: relative;
 		color: rgba(255, 255, 255, 0.25);
 		cursor: default;
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		font-family: vazirmatn;
 		font-size: 0.8rem;
 		font-weight: 900;
-		letter-spacing: 0.075em;
+		
 		line-height: 1.5;
 		text-align: center;
 		text-transform: uppercase;
@@ -4490,10 +4490,10 @@ font-family:vazirmatn;
 		right: 0.75rem;
 		border: 0;
 		color: #ffffff;
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		font-family: vazirmatn;
 		font-size: 0.9rem;
 		font-weight: 900;
-		letter-spacing: 0.075em;
+		
 		padding: 0.375rem 1.25rem;
 		text-transform: uppercase;
 		z-index: 10001;
@@ -4582,11 +4582,11 @@ font-family:vazirmatn;
 				#navPanel .links li a {
 					border-bottom: 0;
 					display: block;
-					font-family: "Source Sans Pro", Helvetica, sans-serif;
+					font-family: vazirmatn;
 					font-size: 0.9rem;
 					font-size: 0.9rem;
 					font-weight: 900;
-					letter-spacing: 0.075em;
+					
 					padding: 0.75rem 0;
 					text-transform: uppercase;
 				}
