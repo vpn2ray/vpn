@@ -143,17 +143,14 @@ input, select, textarea {
 
 		}
 
-	body {
-		color: #212931;
-	}
-
-	body, input, select, textarea {
-		font-family: "Merriweather", Georgia, serif;
-		font-weight: 300;
-		font-size: 1rem;
-		line-height: 2.375;
-	}
-
+body {
+color: #212931;
+font-family:vazirmatn;
+      direction: rtl;
+    }
+    header {
+        direction: rtl;
+    }
 	a {
 		-moz-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
 		-webkit-transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
