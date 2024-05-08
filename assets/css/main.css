@@ -180,7 +180,7 @@ font-family:vazirmatn;
 	h1, h2, h3, h4, h5, h6 {
 		font-family: vazirmatn;
 		font-weight: 900;
-		line-height: 1.5;
+		line-height: 2;
 		letter-spacing: 0.075em;
 		text-transform: uppercase;
 		margin: 0 0 1rem 0;
@@ -193,8 +193,8 @@ font-family:vazirmatn;
 		}
 
 	h1 {
-		font-size: 4rem;
-		line-height: 1.1;
+		font-size: 2rem;
+		line-height: 2;
 		margin: 0 0 2rem 0;
 	}
 
