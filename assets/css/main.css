@@ -32,7 +32,21 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 }
-
+.warning-custom-block{
+    border: 1px solid transparent;
+    border-radius: 8px;
+    padding: 16px 16px 8px;
+    border-color:#d97706;
+    background-color:#f9f9fa;
+}
+.custom-block-title{
+    margin: 8px 0;
+	
+}
+.warning-custom-block p {
+    line-height: 24px;
+	color:#d97706;
+}
 ol, ul {
 	list-style: none;
 }
