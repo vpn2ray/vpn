@@ -46,14 +46,13 @@ blockquote, q {
 		content: none;
 	}
 .btnf{
-	  display: flex;
+display: flex;
 flex-wrap: nowrap;
 flex-direction: column;
-	align-items: stretch;
+align-items: stretch;
 }
 
 .btn {
-  background-color: DodgerBlue;
   border: none;
   color: white;
   padding: 12px 16px;
