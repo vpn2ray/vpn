@@ -47,7 +47,9 @@ blockquote, q {
 	}
 .btnf{
 	  display: flex;
- justify-content: center;
+flex-wrap: nowrap;
+flex-direction: column;
+	align-items: stretch;
 }
 
 .btn {
