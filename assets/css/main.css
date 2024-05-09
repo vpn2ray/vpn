@@ -32,6 +32,11 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 }
+.p-img{
+	text-align:center;}
+.image.main2 img {
+    width: 400px;
+    height: 400px;}
 .warning-custom-block{
     border: 1px solid transparent;
     border-radius: 8px;
