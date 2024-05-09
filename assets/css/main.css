@@ -53,9 +53,8 @@ align-items: stretch;
 }
 
 .btn {
-  border: none;
-  color: white;
-  padding: 12px 16px;
+  border: 3px solid;
+padding-top: 20px;
 margin: 4px 2px;
   font-size: 16px;
   cursor: pointer;
@@ -64,6 +63,7 @@ margin: 4px 2px;
 /* Darker background on mouse-over */
 .btn:hover {
   background-color: RoyalBlue;
+	color:#fff;
 }
 table {
 	border-collapse: collapse;
