@@ -169,18 +169,21 @@ font-family:vazirmatn;
 	}
 
 	em, i {
-		font-style: italic;
+		text-align: right;
+		line-height: 1.5;
+		margin: 0 0 2rem 0;
 	}
 
 	p {
-		text-align: justify;
+		text-align: right;
+		line-height: 1.5;
 		margin: 0 0 2rem 0;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
 		font-family: vazirmatn;
 		font-weight: 900;
-		line-height: 2;
+		line-height: 1.5;
 		margin: 0 0 1rem 0;
 	}
 
@@ -233,7 +236,6 @@ font-family:vazirmatn;
 
 	blockquote {
 		border-left: solid 4px;
-		font-style: italic;
 		margin: 0 0 2rem 0;
 		padding: 0.5rem 0 0.5rem 2rem;
 	}
