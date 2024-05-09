@@ -45,11 +45,17 @@ blockquote, q {
 		content: '';
 		content: none;
 	}
+.btnf{
+	  display: flex;
+ justify-content: center;
+}
+
 .btn {
   background-color: DodgerBlue;
   border: none;
   color: white;
   padding: 12px 16px;
+margin: 4px 2px;
   font-size: 16px;
   cursor: pointer;
 }
