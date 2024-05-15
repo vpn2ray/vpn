@@ -215,6 +215,12 @@
 					}).trigger('resize.ie-intro-fix');
 				}
 
+					
+document.getElementById('myButton').addEventListener('click', function() {
+  document.getElementById('myBox').classList.toggle('show');
+});
+
+
 			// Hide intro on scroll (> small).
 				breakpoints.on('>small', function() {
 
